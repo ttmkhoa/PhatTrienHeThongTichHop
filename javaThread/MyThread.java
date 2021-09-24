@@ -1,6 +1,5 @@
-package javaThread;
+//package javaThread;
 
-//
 public class MyThread extends Thread {
 	String name;// ten thread
 	int n;// so lan thread xuat hien ra man hinh
@@ -17,7 +16,7 @@ public class MyThread extends Thread {
 		try {
 			for (int i = 0; i < n; i++) {
 				System.out.println("Hello, I am " + name);
-				System.out.println("\tI go to bed now. bye!bye!!");
+				// System.out.println("\tI go to bed now. bye!bye!!" + name);
 				Thread.sleep(1500);
 			}
 		} catch (InterruptedException inex) {
@@ -26,21 +25,12 @@ public class MyThread extends Thread {
 	}
 
 	public static void main(String[] args) {
-		// Tao ra 4 thread thuoc tinh MyThread lan luot co ten la Thread0, Thread1,
-		// Thread2, Thread3.
-		// Moi thread co 1000 lan xuat hien ra man hinh
+		// int n = 1000;
+		// int nt = 4;
 
-		int n = 1000;
-		int nt = 4;
+		// for (int i = 0; i < nt; i++) {
+		// MyThread t = new MyThread("Thread: " + i, n);
 
-		// Thread mt = Thread.currentThread();
-		// mt.setName("MyThread");
-		// System.out.println("Main thread name is now: " + mt);
-		// System.out.println("========================");
-
-		for (int i = 0; i < nt; i++) {
-			MyThread t = new MyThread("Thread: " + i, n);
-
-		}
+		// }
 	}
 }

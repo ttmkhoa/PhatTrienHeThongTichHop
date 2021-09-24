@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "javaThread",
+        "javaStream",
+        "javaSocket",
+        "javaPipe",
+        ""
+    ]
+}

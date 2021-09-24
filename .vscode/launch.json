@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch InABC",
+            "request": "launch",
+            "mainClass": "InABC",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCPEchoClient",
+            "request": "launch",
+            "mainClass": "TCPEchoClient",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCPEchoServer",
+            "request": "launch",
+            "mainClass": "TCPEchoServer",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Worker",
+            "request": "launch",
+            "mainClass": "Worker",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "Book",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch InStream1",
+            "request": "launch",
+            "mainClass": "InStream1",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch InStream2",
+            "request": "launch",
+            "mainClass": "InStream2",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyThread",
+            "request": "launch",
+            "mainClass": "MyThread",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyThread1",
+            "request": "launch",
+            "mainClass": "MyThread1",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PipeExample",
+            "request": "launch",
+            "mainClass": "PipeExample",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PipedEcho",
+            "request": "launch",
+            "mainClass": "PipedEcho",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintString",
+            "request": "launch",
+            "mainClass": "PrintString",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityDemo",
+            "request": "launch",
+            "mainClass": "PriorityDemo",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityThread",
+            "request": "launch",
+            "mainClass": "PriorityThread",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadLine",
+            "request": "launch",
+            "mainClass": "ReadLine",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleRunnable",
+            "request": "launch",
+            "mainClass": "SimpleRunnable",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sinhvien",
+            "request": "launch",
+            "mainClass": "Sinhvien",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SynchronizedDemo",
+            "request": "launch",
+            "mainClass": "SynchronizedDemo",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadDemo",
+            "request": "launch",
+            "mainClass": "ThreadDemo",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch WorkerThread",
+            "request": "launch",
+            "mainClass": "WorkerThread",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch tesst",
+            "request": "launch",
+            "mainClass": "tesst",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "PhatTrienHeThongTichHop_21c4aec7"
+        }
+    ]
+}

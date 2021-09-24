@@ -1,6 +1,7 @@
-package javaStream;
+//package javaStream;
 
 import java.io.*;
+
 public class PrintString {
 	public static void main(String[] args) {
 		OutputStream os = System.out;

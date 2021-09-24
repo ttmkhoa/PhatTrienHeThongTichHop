@@ -1,4 +1,4 @@
-package javaPipe;
+//package javaPipe;
 
 import java.io.*;
 
@@ -14,8 +14,8 @@ public class PipedEcho {
             PipedEchoServer server = new PipedEchoServer(srPipe, swPipe);
             PipedEchoClient client = new PipedEchoClient(crPipe, cwPipe);
 
-            // server.start();
-            // client.start();
+            server.start();
+            client.start();
         } catch (IOException ie) {
             System.out.println("Pipe Echo Error: " + ie);
         }

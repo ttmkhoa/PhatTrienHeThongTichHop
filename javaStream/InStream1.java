@@ -1,4 +1,4 @@
-package javaStream;
+//package javaStream;
 
 import java.io.*;
 
@@ -17,4 +17,3 @@ public class InStream1 {
 		}
 	}
 }
-// ghi chu

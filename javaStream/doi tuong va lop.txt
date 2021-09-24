@@ -1,0 +1,18 @@
+Đối tượng (object) trong Java: thực thể gồm
+- Trạng thái/ Thuộc tính
+- Hành vi/ Phương thức
+
+Lớp (class) trong Java
+- Nhóm các đối tượng có chung các thuộc tính (Bản thiết kế từ đó các đối tượng được tạo ra)
+- Class:
+    - thành phần dữ liệu (thuộc tính)
+    - constructor 
+    - Phương thức
+    - Lệnh
+    - Class / Interface
+
+Constructor
+2 loai:
+- mac dinh
+- tham so
+ten Constructor == ten class chua no
